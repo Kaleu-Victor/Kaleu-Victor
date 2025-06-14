@@ -1,10 +1,10 @@
-## Olá! eu me chamo Kaléu Victor
+## Hey, I’m Kaléu. Nice to meet you!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaleu-Victor&show_icons=true&theme=dark)
 
 ##
 
-💻 Atualmente estou estudando Java
+💻 I’m currently studying Java
 
 ##
 
