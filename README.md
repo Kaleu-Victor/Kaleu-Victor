@@ -1,4 +1,4 @@
-## Oi, meu nome é Kaléu!
+## Olá, meu nome é Kaléu!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaleu-Victor&show_icons=true&theme=dark)
 
