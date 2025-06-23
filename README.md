@@ -4,7 +4,7 @@
 
 ##
 
-💻 I’m currently studying Java
+💻 Atualmente estou estudando Java
 
 ##
 
