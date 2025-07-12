@@ -4,7 +4,7 @@
 
 💻 Apaixonado por programação e tecnologia  
 
-🚀 Atualmente aprendendo Java, Programação Orientada a Objetos(POO), Swing, Python, HTML, CSS, JavaScript e NodeJS7
+🚀 Atualmente aprendendo Java, Programação Orientada a Objetos(POO), Swing, Python, HTML, CSS, JavaScript e NodeJS
 
 ## Contato📱
 - ✉️ Email: kaleuvlb@gmail.com
