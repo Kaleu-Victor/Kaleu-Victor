@@ -1,7 +1,9 @@
 ## Olá Mundo! eu me chamo Kaléu Victor👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+
 💻 Apaixonado por programação e tecnologia  
+
 🚀 Atualmente aprendendo Java, Programação Orientada a Objetos(POO), Swing, Python, HTML, CSS, JavaScript e NodeJS7
 
 ## Contato📱
