@@ -5,7 +5,7 @@
 💻 Apaixonado por programação e tecnologia  
 
 🚀 Atualmente aprendendo Programação Orientada a Objetos, Java, Swing, JSON
-## Contato📱
+## Contatos📱
 - ✉️ Email: kaleuvlb@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/kaléuvictor
 
