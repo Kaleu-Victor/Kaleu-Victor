@@ -4,11 +4,9 @@
 
 💻 Apaixonado por programação e tecnologia  
 
-🚀 Atualmente aprendendo Java, Programação Orientada a Objetos(POO), Swing, Python, HTML, CSS, JavaScript e NodeJS
-
+🚀 Atualmente aprendendo Programação Orientada a Objetos, Java, Swing, JSON
 ## Contato📱
 - ✉️ Email: kaleuvlb@gmail.com
-- 📷 Instagram: https://www.instagram.com/_kkvictor_/
 - 💼 LinkedIn: www.linkedin.com/in/kaléuvictor
 
 ⭐ Obrigado por visitar meu perfil!
