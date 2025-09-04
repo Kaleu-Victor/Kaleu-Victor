@@ -4,7 +4,7 @@
 
 💻 Apaixonado por programação e tecnologia  
 
-🚀 Atualmente aprendendo Front End com HTML + CSS + Bootstrap + JavaScript
+🚀 Atualmente aprendendo Java e Programação Orientada a Objetos
 ## Contatos📱
 - ✉️ Email: kaleuvlb@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/kaléuvictor
