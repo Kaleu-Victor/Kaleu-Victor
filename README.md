@@ -6,7 +6,7 @@
 
 🚀 Atualmente aprendendo Java e Programação Orientada a Objetos
 ## Contatos📱
-- ✉️ Email: kaleuvlb@gmail.com
+- 📧 Email: kaleuvlb@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/kaléuvictor
 
 ⭐ Obrigado por visitar meu perfil!
