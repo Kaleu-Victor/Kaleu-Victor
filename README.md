@@ -1,6 +1,6 @@
 Olá Mundo! eu me chamo Kaléu Victor👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPB
 
 💻 Apaixonado por programação e tecnologia
 
