@@ -12,6 +12,6 @@ Contatos📱
 
 💼 LinkedIn: www.linkedin.com/in/kaléuvictor
 
-📸 Instagram: @_kkvictor_
+📸 Instagram: https://www.instagram.com/_kkvictor_/
 
 ⭐ Obrigado por visitar meu perfil!
