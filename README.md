@@ -1,11 +1,6 @@
 Olá Mundo! eu me chamo Kaléu Victor👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) no IFPB
-
-💻 Apaixonado por programação e tecnologia
-
-🚀 Atualmente aprendendo Java e Programação Orientada a Objetos
-
 Contatos📱
 
 📧 Email: kaleuvlb@gmail.com
