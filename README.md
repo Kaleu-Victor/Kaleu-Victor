@@ -6,7 +6,7 @@ Contatos📱
 
 📧 Email: kaleuvlb@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/kaléuvictor
+💼 LinkedIn: www.linkedin.com/in/kaleuvictor
 
 📸 Instagram: https://www.instagram.com/_kkvictor_/
 
